@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["pXU78"]); }
+
+__d('DraftODS',['cx','BanzaiODS','fbjs/lib/CSSCore'],(function a(b,c,d,e,f,g,h){'use strict';var i={init:function j(){document.addEventListener('input',function(k){if(k.target.nodeType===1&&c('fbjs/lib/CSSCore').hasClass(k.target,"_5rpu"))c('BanzaiODS').bumpEntityKey('draft_js','input_events');});}};f.exports=i;}),null);

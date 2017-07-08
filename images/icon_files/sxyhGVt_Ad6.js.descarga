@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["2TzXv"]); }
+
+__d('messengerUploadFilesUtilRe',['bs_js_primitive','FantaTypeFileUploader'],(function a(b,c,d,e,f,g){'use strict';var h,i=(h={},h[c('FantaTypeFileUploader').fileTypes.IMAGE]='image_ids',h[c('FantaTypeFileUploader').fileTypes.ANIMATED_IMAGE]='gif_ids',h[c('FantaTypeFileUploader').fileTypes.VIDEO]='video_ids',h[c('FantaTypeFileUploader').fileTypes.AUDIO]='audio_ids',h[c('FantaTypeFileUploader').fileTypes.FILE]='file_ids',h);function j(k,l){if(c('bs_js_primitive').is_nil_undef(k)){return null;}else{var m=k.getTypeIDs(l);if(m.length){return m;}else return null;}}g.supportAttachments=i;g.getAttachmentIDs=j;}),null);
